@@ -1,0 +1,3 @@
+the value of n1 is: 23
+the value of n2 is: 45
+the value of n3 is: 6
